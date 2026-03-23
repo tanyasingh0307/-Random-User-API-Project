@@ -1,6 +1,6 @@
-# 🌐 Random User API Project
+#  Random User API Project
 
-## 📌 Overview
+##  Overview
 
 This project is a simple Python-based application that fetches random
 user data from a public API.\
@@ -9,7 +9,7 @@ displays it in the terminal.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   Fetch random user data using API\
 -   Extract username and country\
@@ -18,7 +18,7 @@ displays it in the terminal.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   Python\
 -   Requests Library\
@@ -26,7 +26,7 @@ displays it in the terminal.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+##  Project Structure
 
 random-user-api/
 
@@ -37,7 +37,7 @@ random-user-api/
 
 ------------------------------------------------------------------------
 
-## 📦 Installation
+##  Installation
 
 1.  Clone the repository: git clone
     https://github.com/your-username/random-user-api.git
@@ -48,26 +48,30 @@ random-user-api/
 
 ------------------------------------------------------------------------
 
-## ▶️ Usage
+## Usage
 
 Run the program: python main.py
 
 ------------------------------------------------------------------------
 
-## 📷 Sample Output
+## Sample Output
 
 Username: lazykoala381\
 Country: New Zealand
 
+-------------------------------------------------------------------------
+## 📷 Sample Output
+
+![Terminal Output](output.png)
 ------------------------------------------------------------------------
 
-## 🔗 API Used
+##  API Used
 
 https://api.freeapi.app/api/v1/public/randomusers/user/random
 
 ------------------------------------------------------------------------
 
-## 📚 What I Learned
+##  What I Learned
 
 -   How to work with APIs in Python\
 -   JSON parsing and data extraction\
@@ -76,7 +80,7 @@ https://api.freeapi.app/api/v1/public/randomusers/user/random
 
 ------------------------------------------------------------------------
 
-## ✨ Future Improvements
+##  Future Improvements
 
 -   Add more user details (email, profile picture, etc.)\
 -   Convert into a Flask API\
@@ -84,6 +88,6 @@ https://api.freeapi.app/api/v1/public/randomusers/user/random
 
 ------------------------------------------------------------------------
 
-## 👩‍💻 Author
+## Author
 
 Tanya Singh
